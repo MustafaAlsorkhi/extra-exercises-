@@ -65,7 +65,9 @@
 //q5
 // var num1 = window.prompt("Enter your number one");
 // var num2 = window.prompt("Enter your number two");
-// var num3 = num1+num2;
+// var n1 = parseInt (num1);
+// var n2 = parseInt (num2);
+//  var num3  = parseInt(n1+n2);
 //  window.alert("The sum = " + num3);
 
 // var mynumber= window.prompt("Enter your number");
