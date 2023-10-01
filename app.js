@@ -93,7 +93,74 @@
 //     window.alert("PLEASE TRY AGAIN")
 // }
 
+//q7
+//  var numb =[1,2,3,4,5]
+// for (let i = 0 ; i <numb.length ; i++){
+
+//     num = window.alert( "The number : "+numb[i]);
+// }
+
+//q8
+//  var numb =[1,2,3,4,5]
+// for (let i = 0 ; i <1 ; i++){
+
+//     num = window.alert( "The number : "+numb);
+// }
+
+
+//q9
+
+// for ( i=3; i<20 ; i=i+3){
+//     num = window.alert( "The number : "+ i);
+// }
+
+
+//q10
+// let x;
+// while (true) {
+//   x = parseInt(window.prompt("Please enter a number between 0 and 100:"));
+  
+//   if (!isNaN(x) && x >= 0 && x <= 100) {
+//     break;
+//   } else {
+//     window.alert("Error: Please enter a valid number between 0 and 100.");
+//   }
+// }
+
+// window.alert("You entered a valid number: " + x);
+
+//q11
+// let x;
+// while (true) {
+//   x = (window.prompt("Please enter any word"));
+  
+//   if (isNaN(x)) {
+//     break;
+//   } else {
+//     window.alert("Error: Please enter any word");
+//   }
+// }
+
+// window.alert("You entered a valid word: " + x);
+
+// q12
+// var num= window.prompt("please enter any number")
+// var num1=0;
+// for(i=0; i<=(num); i++){
+
+//     var num1 = num1+ (num-i)
+// }
+// var ff= window.alert("The sum = "+num1)
 
 
 
+//q13
+// var num= window.prompt("please enter any number")
+// var num1=0;
+// for(i=0; i<=(num); i++){
+
+//     var num1 = num1+ (num-i)
+// }
+//   var num2 = num1/(++num);
+// var ff= window.alert("The Average  = "+num2)
 
