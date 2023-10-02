@@ -140,8 +140,11 @@
 //     window.alert("Error: Please enter any word");
 //   }
 // }
+// var y = x.split(" ").reverse().join(" ");
 
-// window.alert("You entered a valid word: " + x);
+// window.alert("You entered a valid word: " + y);
+
+
 
 // q12
 // var num= window.prompt("please enter any number")
